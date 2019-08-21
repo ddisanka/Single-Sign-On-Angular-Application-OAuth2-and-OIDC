@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=AcuzemsJfxA
+
+
+This video tutorial explains in detail, how to create a single-sign-on application in angular. Using OAuth2 and Open ID Connect (OIDC).
+
+Source Code:  https://github.com/shaheershukur/Angu...
+
+This application will be using the configuration from the following github repository. Credits to its creator!
+https://github.com/manfredsteyer/angu...
+
+This video explains how single-login in angular can be implemented with and without a login form/button.
+
+#angular #singlesignon #oauth2 #oidc
+
+http://shaheershukur.com/
